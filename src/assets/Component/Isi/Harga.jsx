@@ -1,13 +1,13 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-
+ 
 const HargaMenu = () => {
     return (
         <>
             <div className="tulisanHarga">
-                <h1>Open Order Hanya Untuk Daerah Bogor dan Depok !!</h1>
-                <p>Untuk Daerah diluar Bogor dan Depok Nanti akan segera hadir !!!</p>
+                <h1>Open Order Hanya Untuk Daerah Pamulang , Ciputat Dan Depok!!</h1>
+                <p>Untuk Daerah diluar Pamulang, Ciputat dan Depok Nanti akan segera hadir !!!</p>
             </div>
             <div className="card-container" id="Harga">
                 <div className="card-item">

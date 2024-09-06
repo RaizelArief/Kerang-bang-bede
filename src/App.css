@@ -11,7 +11,7 @@
     scroll-behavior: smooth !important;
 }
 .Intro {
-    background-image: url("P2.jpg");
+    background-image: url("/P2.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
